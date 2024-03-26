@@ -1,0 +1,13 @@
+.container {
+  max-width: 929px;
+  padding: 0 15px;
+  margin: 0 auto;
+  color: #21243d;
+}
+
+.title {
+  font-size: 44px;
+  line-height: 60px;
+  margin-bottom: 25px;
+  font-weight: 900;
+}

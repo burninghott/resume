@@ -1,0 +1,54 @@
+.container {
+  max-width: 929px;
+  padding: 0 15px;
+  margin: 0 auto;
+  color: #21243d;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 49.94px;
+  margin-bottom: 30px;
+  max-width: 506px;
+}
+
+.details {
+  display: flex;
+  gap: 27px;
+  margin-bottom: 23px;
+}
+
+.date {
+  background-color: #ff7c7c;
+  color: white;
+  padding: 3px 10px;
+  border-radius: 16px;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.category {
+  font-size: 20px;
+  line-height: 29.38px;
+}
+
+.desc {
+  margin-bottom: 46px;
+  max-width: 681px;
+}
+
+.img_container {
+  margin-bottom: 54px;
+}
+
+.second_title {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 24px;
+  margin-bottom: 30px;
+}

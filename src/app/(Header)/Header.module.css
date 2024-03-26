@@ -1,0 +1,74 @@
+/* HEADER  */
+.container {
+  max-width: 929px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.header {
+  padding-top: 27px;
+  margin-bottom: 158px;
+}
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.nav_menu {
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+  gap: 33px;
+}
+
+.nav_links {
+  text-decoration: none;
+  display: flex;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.nav_links:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+.auth {
+  align-items: center;
+  margin-left: 50px;
+  display: flex;
+  gap: 10px;
+}
+
+.sign_in {
+  cursor: pointer;
+  padding: 7px 20px;
+  border-radius: 10%;
+  background-color: #ff6464;
+  color: white;
+  font-weight: 700;
+}
+
+.sign_up {
+  cursor: pointer;
+  padding: 7px 20px;
+  border-radius: 10%;
+  background-color: #142850;
+  color: white;
+  font-weight: 700;
+}
+
+.sign_up:hover {
+  opacity: 0.4;
+  transition: 0.3s;
+}
+
+.sign_in:hover {
+  opacity: 0.4;
+  transition: 0.3s;
+}
+
+.btn_links {
+  display: flex;
+  gap: 15px;
+}
+/* HEADER  */

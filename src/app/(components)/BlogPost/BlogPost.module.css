@@ -1,0 +1,36 @@
+.box {
+  max-width: 682px;
+  background-color: white;
+}
+
+.desc {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38.19px;
+  margin-bottom: 17px;
+  margin-top: 15px;
+}
+
+.details {
+  display: flex;
+  gap: 26px;
+  margin-bottom: 11px;
+  font-size: 20px;
+}
+
+.category {
+  color: #8695a4;
+}
+
+.section_border {
+  /* height: 1px; */
+  max-width: 100%;
+  border: 1px solid #e0e0e0;
+  margin-top: 15px;
+  margin-bottom: 32px;
+}

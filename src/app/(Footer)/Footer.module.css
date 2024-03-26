@@ -1,0 +1,29 @@
+.container {
+  max-width: 929px;
+  padding: 0 15px;
+  margin: 0 auto;
+  color: #21243d;
+}
+
+.footer_section {
+  text-align: center;
+  padding-top: 54px;
+  padding-bottom: 54px;
+}
+
+.social_medias {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  gap: 35px;
+  align-items: center;
+  margin-bottom: 26px;
+}
+
+.social_media:hover {
+  opacity: 0.3;
+}
+
+.footer_text {
+  font-size: 14px;
+}
